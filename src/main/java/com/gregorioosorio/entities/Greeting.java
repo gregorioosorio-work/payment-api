@@ -1,4 +1,4 @@
-package com.gregorioosorio.service;
+package com.gregorioosorio.entities;
 
 public class Greeting {
 
